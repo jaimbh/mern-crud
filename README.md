@@ -1,2 +1,2 @@
 # mern-crud
-simple mern crud
+simple mern crud app
